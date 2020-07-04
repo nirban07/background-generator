@@ -1,0 +1,12 @@
+body{
+	font:Georgia,'Raleway',sans-serif;
+	background: linear-gradient(to right,blue,green);
+	text-align: center;
+	text-transform: uppercase;
+	color:default;
+}
+h1{
+	font:400 3.5em 'Raleway',sans-serif;
+	text-transform: uppercase;
+	width: 100%;
+}
